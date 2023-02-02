@@ -1,0 +1,5 @@
+ALTER TABLE musica
+ADD CONSTRAINT fk_id_artista
+FOREIGN KEY (fk_id_artista)
+REFERENCES artista (ID)
+ON DELETE CASCADE

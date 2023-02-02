@@ -1,0 +1,2 @@
+ALTER TABLE musica ADD COLUMN
+duacao_seg INT NOT NULL
