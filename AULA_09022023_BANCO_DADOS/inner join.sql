@@ -1,0 +1,4 @@
+select * from pedido 
+INNER JOIN  cliente 
+on cliente.id = pedido.fk_id_cliente
+ORDER by cliente.id
