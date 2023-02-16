@@ -1,0 +1,9 @@
+Existem três pilares fundamentais da segurança de dados que devem ser seguidos para que um novo banco seja bem projetado e funcione corretamente:
+
+Integridade - A integridade garante que os dados no banco não sejam alterados de forma não autorizada. Isso significa que os dados precisam ser protegidos contra adulteração, seja por pessoas mal-intencionadas ou por falhas técnicas. Para garantir a integridade dos dados, o banco deve implementar mecanismos de backup e recuperação de dados, além de controles de versionamento.
+
+
+Confiabilidade - A confidencialidade garante que os dados do banco sejam acessíveis apenas por pessoas autorizadas. Isso significa que medidas de segurança devem ser implementadas para proteger as informações de usuários, tais como senhas seguras e mecanismos de autenticação forte, criptografia de dados sensíveis e controles de acesso baseados em função.
+
+
+Disponibilidade - A disponibilidade garante que os dados do banco estejam sempre disponíveis para os usuários autorizados quando eles precisam deles. Isso significa que o banco deve ter uma infraestrutura robusta, capaz de lidar com altos volumes de tráfego, além de sistemas de monitoramento e redundância de rede para garantir a disponibilidade contínua dos serviços.
